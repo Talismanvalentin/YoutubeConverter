@@ -1,4 +1,9 @@
-# YouTubeConverter
+# YouTubeConverter 
+
+![Captura de pantalla_20250109_093951](https://github.com/user-attachments/assets/f9e2e196-96ce-4f15-ab5d-b3c84419f996)
+
+
+
 
 YouTubeConverter es una aplicación para descargar y convertir videos de YouTube en formato MP3 o MP4 (1080p) utilizando `yt-dlp`.
 
